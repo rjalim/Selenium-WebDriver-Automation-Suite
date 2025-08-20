@@ -74,4 +74,26 @@ A comprehensive collection of Web UI Automation scripts using Selenium WebDriver
 - │   └── DriverSetup.java // Perfect name!
 - │
 - └── utils/ (Helper classes)
-  -   └── HelperMethods.java // Perfect name!
+     └── HelperMethods.java // Perfect name!
+
+ 
+---
+
+## 🚀 How to Run These Tests
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/selenium-webdriver-automation-suite.git
+    ```
+2.  **Open the project** in IntelliJ IDEA or Eclipse as a Maven project. It will automatically import dependencies.
+3.  **Run a test:** Right-click on any test class (e.g., `AlertTests.java`) and select `Run`.
+
+> **Prerequisites:** Java JDK 11+ and Maven should be installed on your system.
+
+---
+
+## 👨‍💻 Why This Project?
+
+This project serves as a practical guide and a personal reference for tackling common web automation challenges. It's built with clarity and reusability in mind, reflecting an understanding of good automation design principles beyond just script recording.
+
+*✨ Feel free to explore the code and connect with me on [LinkedIn](https://www.linkedin.com/in/rjalim/)!*
