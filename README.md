@@ -55,3 +55,23 @@ A comprehensive collection of Web UI Automation scripts using Selenium WebDriver
 ---
 
 ## 📁 Project Structure
+
+src/test/java/org/example/
+├── tests/ (All your test classes go here)
+│   ├── CopyPasteActionsTests.java
+│   ├── ImplicitWaitTests.java
+│   ├── InteractingWithAlert.java
+│   ├── InteractingWithDropDownMenu.java
+│   ├── InteractingWithWebBrowser.java
+│   ├── InteractingWithWebElement.java
+│   ├── ManagingBrowser.java
+│   ├── TestNGExamples.java
+│   ├── WebTestWithMainMethod.java // Consider renaming to e.g., BasicTest.java
+│   ├── WebTestWithoutMethod.java   // Consider renaming or combining
+│   └── iFrameActionsTests.java
+│
+├── base/ (Core setup classes)
+│   └── DriverSetup.java // Perfect name!
+│
+└── utils/ (Helper classes)
+    └── HelperMethods.java // Perfect name!
