@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Check_Implicit_Wait extends DriverSetup{
+public class ImplicitWaitTests extends DriverSetup{
 
     @Test
     public  void Check_Implicit_Wait() throws InterruptedException {

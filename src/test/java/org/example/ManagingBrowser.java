@@ -1,13 +1,12 @@
 package org.example;
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WindowType;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Managing_browser extends DriverSetup{
+public class ManagingBrowser extends DriverSetup{
 
     @Test
     public void Control_Web_browser() throws InterruptedException {

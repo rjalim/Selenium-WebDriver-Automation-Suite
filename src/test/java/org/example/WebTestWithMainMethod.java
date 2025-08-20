@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
-public class Web_Test_With_Main_Method {
+public class WebTestWithMainMethod {
 
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver = new ChromeDriver();

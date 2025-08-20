@@ -5,9 +5,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
-import javax.naming.ldap.Control;
-
-public class Copy_Pest_Using_Action_Class extends DriverSetup{
+public class CopyPasteActionsTests extends DriverSetup{
 
     @Test
     public void doing_copy_pest() throws InterruptedException {

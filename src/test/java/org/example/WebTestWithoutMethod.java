@@ -3,7 +3,7 @@ package org.example;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Web_Test_Without_Method extends DriverSetup{
+public class WebTestWithoutMethod extends DriverSetup{
 
     @Test
     public void Check_Facebook_Url() throws InterruptedException {

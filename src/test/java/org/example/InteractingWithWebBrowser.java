@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class Interacting_With_Web_Browser extends DriverSetup{
+public class InteractingWithWebBrowser extends DriverSetup{
 
     @Test
     public void Check_Web_Browser() throws InterruptedException {

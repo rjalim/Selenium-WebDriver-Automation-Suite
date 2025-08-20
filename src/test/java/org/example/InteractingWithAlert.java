@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class Interacting_With_Alert extends DriverSetup{
+public class InteractingWithAlert extends DriverSetup{
 
     @Test
     public void Interaction_With_Alert() throws InterruptedException {

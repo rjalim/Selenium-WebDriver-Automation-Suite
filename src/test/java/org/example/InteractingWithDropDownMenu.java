@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class Interacting_With_Drop_Down_Menu extends DriverSetup{
+public class InteractingWithDropDownMenu extends DriverSetup{
 
     @Test
     public void Interaction_With_Drop_Down() throws InterruptedException {

@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
 
-public class Example_Test_NG extends DriverSetup {
+public class TestNGExamples extends DriverSetup {
 
     @Test(priority = 2)
     public void Test_case_1(){

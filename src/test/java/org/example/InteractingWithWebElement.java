@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class Interacting_With_Web_Element extends DriverSetup{
+public class InteractingWithWebElement extends DriverSetup{
 
     @Test
     public void Interaction_With_Element() throws InterruptedException {

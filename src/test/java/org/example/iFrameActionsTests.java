@@ -1,11 +1,10 @@
 package org.example;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
-public class iFrame_Using_Action_Class extends DriverSetup{
+public class iFrameActionsTests extends DriverSetup{
 
 
     By iFrame = By.xpath("//legend[normalize-space()='iFrame Example']");
